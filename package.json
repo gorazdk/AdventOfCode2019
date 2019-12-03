@@ -1,0 +1,10 @@
+{
+  "name": "AdventOfCode2019",
+  "version": "1.0.0",
+  "description": "This are my solutions to advent of code 2019 in javascript",
+  "main": "index.js",
+  "repository": "https://github.com/gorazdk/AdventOfCode2019.git",
+  "author": "<gorazdk@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
